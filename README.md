@@ -1,4 +1,9 @@
 # v4-template
+
+![image](https://github.com/robertleifke/tesseract/assets/44106773/1f69d1e1-e4a5-4760-b785-34645fb1871e)
+
+The smart contract suite for tesseract, a power⁴ perpetual built on Uniswap V4 and Ajna. The principle idea is to enable a sh*t load of leverage on any token. Using Uniswap, anyone can start a leverage market for a token completely permissionlessly. 
+
 ### **A template for writing Uniswap v4 Hooks 🦄**
 
 [`Use this Template`](https://github.com/uniswapfoundation/v4-template/generate)
