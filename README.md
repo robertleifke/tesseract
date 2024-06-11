@@ -1,8 +1,8 @@
-# numo 
+# Squared
 
 ![image](https://github.com/robertleifke/tesseract/assets/44106773/1f69d1e1-e4a5-4760-b785-34645fb1871e)
 
-The smart contract suite for numo, a power perpetual built as a Uniswap V4 hook that interacts the Ajna lending protocol. The principle idea is to enable a sh*t load of leverage on any token. Using Uniswap, anyone can start a leverage market for a token completely permissionlessly. 
+The smart contract suite for Squared, an automated option strategy that replicates that payoff of "Squeeth." It as a Uniswap V4 hook and interacts with the Ajna lending protocol. The principle idea is to enable a sh*t load of leverage on any token using Uniswap. 
 
 
 </details>
